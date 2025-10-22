@@ -29,7 +29,7 @@ FIM-Lite creates a secure **SHA-256 baseline** of every file in a directory and 
 
 ## 🧰 Setup & Usage
 
-### 1️⃣ Clone and Install
+1️⃣ Clone and Install
 ```bash
 git clone https://github.com/partz2510/fim-lite.git
 cd fim-lite
@@ -68,17 +68,7 @@ Integrity Report
 Project Structure	
 
 ## 🧪 Folder Structure
-css
-Copy code
-fim-lite/
-├── src/
-│   └── fim.py
-├── examples/
-├── tests/
-├── reports/
-├── requirements.txt
-├── README.md
-└── .baseline.json
+![Folder Structure](https://github.com/partz2510/fim-lite/blob/main/images/Screenshot%202025-10-22%20214709.png?raw=true)
 
 ## 🌱 Future Improvements
 Add email / Slack alert integration
@@ -98,4 +88,5 @@ This project demonstrates the power of Python for blue-team automation — combi
 
 ## 🪪 License
 MIT License – free for educational and professional use.
+
 
