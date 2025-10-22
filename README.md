@@ -59,13 +59,15 @@ Copy code
 ╰─────────────────────────────────────────────────────────────────────────╯
 Unchanged files: 10
 Report saved to: reports/fim-report-YYYYMMDD-HHMMSS.json
-📸 Example Screenshots
+```
+
+## 📸 Example Screenshots
 Description	Preview
 Baseline Created	
 Integrity Report	
 Project Structure	
 
-🧪 Folder Structure
+## 🧪 Folder Structure
 css
 Copy code
 fim-lite/
@@ -77,7 +79,8 @@ fim-lite/
 ├── requirements.txt
 ├── README.md
 └── .baseline.json
-🌱 Future Improvements
+
+## 🌱 Future Improvements
 Add email / Slack alert integration
 
 Add CSV export for Splunk/SIEM integration
@@ -86,13 +89,13 @@ Add file whitelist / auto-heal options
 
 Build GUI wrapper for Windows users
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Parthiban Ganesan
-Cybersecurity Engineer | Python Automation | Cloud Security Enthusiast
-📎 LinkedIn | 📂 GitHub
 
-🧠 Inspiration
+
+## 🧠 Inspiration
 This project demonstrates the power of Python for blue-team automation — combining cryptographic hashing, scripting, and security operations concepts into one elegant command-line utility.
 
-🪪 License
+## 🪪 License
 MIT License – free for educational and professional use.
+
