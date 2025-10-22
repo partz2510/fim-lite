@@ -61,11 +61,11 @@ Unchanged files: 10
 Report saved to: reports/fim-report-YYYYMMDD-HHMMSS.json
 ```
 
-## 📸 Example Screenshots
-Description	Preview
-Baseline Created	
-Integrity Report	
-Project Structure	
+## 📸 Baseline Screenshots
+![Baseline](https://github.com/partz2510/fim-lite/blob/main/images/Screenshot%202025-10-22%20214150.png?raw=true)
+
+## 🎯 Integrity Report
+![Integrity Report](https://github.com/partz2510/fim-lite/blob/main/images/Screenshot%202025-10-22%20214509.png?raw=true)
 
 ## 🧪 Folder Structure
 ![Folder Structure](https://github.com/partz2510/fim-lite/blob/main/images/Screenshot%202025-10-22%20214709.png?raw=true)
@@ -88,5 +88,6 @@ This project demonstrates the power of Python for blue-team automation — combi
 
 ## 🪪 License
 MIT License – free for educational and professional use.
+
 
 
